@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 42" fill="none">
+  <g transform="rotate(-12 13 21)">
+    <rect x="4" y="10" width="12" height="12" rx="2.5" fill="#177F6B"/>
+    <rect x="20" y="10" width="12" height="12" rx="2.5" fill="#F4B16F"/>
+    <rect x="20" y="26" width="12" height="12" rx="2.5" fill="#177F6B"/>
+  </g>
+  <text x="42" y="28" fill="#1C2A3A" font-family="Space Grotesk, sans-serif" font-size="24" font-weight="700" letter-spacing="-1.5">Nube<tspan fill="#65717C" font-weight="400"> Tools</tspan></text>
+</svg>

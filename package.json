@@ -1,0 +1,20 @@
+{
+  "name": "nube-tools",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=22.0.0"
+  },
+  "scripts": {
+    "start": "node --env-file=.env server/index.js"
+  },
+  "dependencies": {
+    "@clerk/express": "^2.1.76",
+    "docx": "^9.8.1",
+    "express": "^5.2.1",
+    "multer": "^2.4.0",
+    "pdfkit": "^0.20.2",
+    "pptxgenjs": "^4.0.1"
+  }
+}
